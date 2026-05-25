@@ -63,7 +63,7 @@ Allow the following ports in the AWS Security Group:
 # Clone Project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lamp-stack-deployment.git
+git clone https://github.com/heyohjayy/lamp-stack-deployment.git
 cd lamp-stack-deployment
 ```
 
